@@ -20,6 +20,20 @@ Welcome to the ETL for Tweeter User recomendation
 - load DB Schema in your Database (named db_schema located in the root folder of the project)
 - Run the index.py, the progress bar starts with a description of what's happening and there you go, You have data in your DB 🎉  🎉  🎉
 
+<img width="1682" alt="Screenshot 2022-08-07 at 7 40 13 PM" src="https://user-images.githubusercontent.com/3751143/183304223-80b4bdbb-ae2b-421c-8fe3-e81036ee0a75.png">
+
+
+
+
+<img width="1716" alt="Screenshot 2022-08-07 at 7 41 16 PM" src="https://user-images.githubusercontent.com/3751143/183304208-4a8e069b-776d-41b8-99a0-a8c0a19b66ff.png">
+
+
+
+
+
+
+
+
 ### License
 
 **Free Software....!!!** 🥳 🥳 🥳
