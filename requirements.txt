@@ -1,0 +1,15 @@
+cffi==1.15.1
+colorama==0.4.5
+cryptography==37.0.4
+numpy==1.23.1
+pandas==1.4.3
+petl==1.7.10
+pycparser==2.21
+PyMySQL==1.0.2
+python-dateutil==2.8.2
+pytz==2022.1
+six==1.16.0
+SQLAlchemy==1.4.39
+
+
+#pip3 install -r requirements.txt
